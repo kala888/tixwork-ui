@@ -1,0 +1,22 @@
+{
+  "name": "tixwork",
+  "version": "1.0.0",
+  "description": "cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kala888/tixwork-ui.git"
+  },
+  "keywords": [
+    "tixwork-ui"
+  ],
+  "author": "kala888",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kala888/tixwork-ui/issues"
+  },
+  "homepage": "https://github.com/kala888/tixwork-ui#readme"
+}
